@@ -1,10 +1,13 @@
+
+---
+
+### **2. `requirements.txt`**
+```plaintext
 numpy
 pandas
 matplotlib
-seaborn
 nltk
 tensorflow
 scikit-learn
-json5
-pickle-mixin
+
 
