@@ -3,11 +3,8 @@
 
 ### **2. `requirements.txt`**
 ```plaintext
+opencv
 numpy
-pandas
-matplotlib
-nltk
 tensorflow
-scikit-learn
-
+keras
 
